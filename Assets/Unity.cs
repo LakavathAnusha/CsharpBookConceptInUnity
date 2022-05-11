@@ -9,6 +9,7 @@ public class Unity : MonoBehaviour
     {
 
         Debug.Log("Anusha Lakavath");
+        Debug.Log("My Friend Name is Bakki");
     }
 
     // Update is called once per frame
