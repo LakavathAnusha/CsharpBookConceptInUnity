@@ -1,14 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7D8E23C2-7374-771B-A5CB-5419D00C27BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{7D8E23C2-7374-771B-A5CB-5419D00C27BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8E23C2-7374-771B-A5CB-5419D00C27BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8E23C2-7374-771B-A5CB-5419D00C27BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8E23C2-7374-771B-A5CB-5419D00C27BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
